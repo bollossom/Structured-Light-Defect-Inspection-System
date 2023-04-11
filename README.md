@@ -2,9 +2,9 @@
 ## First Prize of the Tenth National Optoelectronics Design Competition
 ![avatar](first.png)
 ## Work flow
-![avatar](overflow.png)
+![avatar](overflow.jpg)
 ## Simple model
-![avatar](model.png)
+![avatar](model.jpg)
 # How to Run
 First clone the repository.
 ~~~
