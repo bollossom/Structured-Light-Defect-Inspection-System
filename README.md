@@ -8,5 +8,8 @@ git clone https://github.com/bollossom/Structured-Light-Defect-Inspection-System
 
 # Training 
 Our dataset can be found in 
-
+~~~
+link：https://pan.baidu.com/s/1DSBqXN8GlXzHd2p8neCqJg 
+code：ssdj
+~~~
 
