@@ -19,3 +19,9 @@ Our dataset can be found in
 link：https://pan.baidu.com/s/1Q5dcS_2IZ2ziKsXAzY-VFw 
 code：e18o
 ~~~
+## Introduction video of defect detection instrument work
+~~~
+link：https://pan.baidu.com/s/1z7dUUt_maohvi7fFRaIVZQ 
+code：eqaj
+~~~
+
