@@ -1,5 +1,6 @@
 # Structured-Light-Defect-Inspection-System
 First Prize of the Tenth National Optoelectronics Design Competition
+\!\[markdown picture](./assets/favicon.png)
 # How to Run
 First clone the repository.
 ~~~
